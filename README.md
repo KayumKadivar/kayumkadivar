@@ -3,7 +3,6 @@
 ## About Me
 - React Developer
 - Node.js Developer
-- Export Business Owner
 
 ## Tech Stack
 - React
